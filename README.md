@@ -1,4 +1,4 @@
 curso-testes
 ============
 
-Repositório do curso de testes automatizados
+Repositório do curso de testes automatizados ministrado na VTI.
